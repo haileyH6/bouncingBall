@@ -14,7 +14,7 @@ public class Ball {
         this.y = y;
         size = 10;
         speed = 4;
-        color = Color.BLUE;
+        color = Color.RED;
 
     }
 
