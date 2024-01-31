@@ -13,7 +13,7 @@ public class Ball {
         this.x = x;
         this.y = y;
         size = 10;
-        speed = 4;
+        speed = 6;
         color = Color.RED;
 
     }
